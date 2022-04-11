@@ -31,7 +31,7 @@
     "@antfu/eslint-config": "^0.20.2",
     "@types/node": "^16.10.5",
     "@typescript-eslint/parser": "^5.8.1",
-    "@vercel/ncc": "^0.31.1",
+    "@vercel/ncc": "^0.33.3",
     "eslint": "^8.13.0",
     "jest": "^27.2.5",
     "js-yaml": "^4.1.0",
